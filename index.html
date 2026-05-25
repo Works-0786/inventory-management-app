@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>在庫管理アプリ</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>在庫管理アプリ</h1>
+  
+<input id="productName" class="input-field" type="text" placeholder="商品名">
+<input id="stockInput" class="input-field" type="number" placeholder="在庫数">
+
+<button id="addButton">商品追加</button>
+
+<table>
+  <thead>
+   <tr>
+    <th>ID</th>
+    <th>商品</th>
+    <th>在庫</th>
+    <th>操作</th>
+   </tr>
+   </thead>
+   <tbody id="itemList">
+   </tbody>
+</table>
+
+<script src="script.js"></script>
+
+</body>
+</html>

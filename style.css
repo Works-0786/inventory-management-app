@@ -1,0 +1,28 @@
+.zero-stock {
+  color: red;
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black
+}
+
+th, td {
+  padding: 5px;
+}
+
+button {
+  margin: 3px;
+}
+
+.input-field {
+  margin: 3px;
+}
+
+body {
+  padding: 20px;
+}

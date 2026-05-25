@@ -1,5 +1,7 @@
 # 在庫管理ミニアプリ
 
+![在庫管理アプリ画面](screenshot.png)
+
 ## 概要
 
 HTML/CSS/JavaScriptを用いて作成した在庫管理アプリです。  
